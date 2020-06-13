@@ -1,0 +1,93 @@
+.navbar-brand{
+  font-family: 'VT323', monospace;
+}
+
+#bbb{
+  color: #f44336;
+}
+
+p, ul{
+  font-family: 'VT323', monospace;
+}
+
+#title{
+  background-color: #d4f3ef;
+}
+
+h1{
+  font-family: 'Major Mono Display', monospace;
+}
+
+.h1main{
+  padding: 3% 0%;
+}
+
+h2{
+  font-family: 'Major Mono Display', monospace;
+}
+
+.h3, h3{
+  font-family: 'Major Mono Display', monospace;
+}
+
+ul{
+  padding-left: 0px;
+}
+
+/* features-section */
+
+.features-section{
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.feature{
+  padding: 0 10%;
+}
+
+.icon{
+  color: #40bad5;
+}
+
+.icon:hover{
+  color: #0382ab;
+}
+
+.feature p{
+  font-size: 1.2rem;
+  padding: 0% 5%;
+  color: #758184;
+}
+
+/* carousel-section */
+
+#carousel-section{
+  padding: 5% 10%;
+  text-align: center;
+  background-color:  #d4f3ef;
+}
+
+.paw{
+  width: 10%;
+}
+
+/* cards-section */
+.cards-section{
+  padding: 2% 10%;
+}
+
+/* example-section */
+.example-section{
+  background-color: #d4f3ef;
+  padding: 5% 10%;
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  padding: 2% 5%;
+}
+
+.social .icon{
+  padding: 1%;
+}
